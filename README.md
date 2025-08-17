@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **LLMS, Diffusion Models**
 
-- 👨‍💻 All of my projects are available at [https://anoushkha-lathikaa.vercel.app/](https://anoushkha-lathikaa.vercel.app/)
+- 👨‍💻 All of my projects are available at [Anoushkha-Lathikaa](https://anoushkha-lathikaa.vercel.app/)
 
 - 📫 How to reach me **vedaanoushkha@gmail.com**
 
