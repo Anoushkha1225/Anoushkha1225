@@ -18,7 +18,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anoushkha1225" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/anoushkha1225" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
 </p>
 
