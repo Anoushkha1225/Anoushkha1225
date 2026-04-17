@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anoushkha</h1>
 <h3 align="center">A passionate learner...</h3>
 
-- 🔭 I’m currently working on [InterviewBot](https://interview-coach-chi.vercel.app/)
-
-- 🌱 I’m currently learning **LLMS, Diffusion Models**
+- 🔭 I’m currently working on [75-US](https://together-75.lovable.app/select)
 
 - 👨‍💻 All of my projects are available at [My-Portfolio](https://anoushkha-lathikaa.vercel.app/)
 
